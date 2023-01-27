@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
                 const CircleAvatar(
                   radius: 100.0,
                   backgroundImage: AssetImage('assets/dice1.png'),
-                  backgroundColor: Colors.grey,
+                  backgroundColor: Colors.blueGrey,
                 ),
                 SizedBox(
                   height: 10.0,
@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
                         SizedBox(
                           width: 45.0,
                         ),
-                        Text('09096101838',
+                        Text('09911223344',
                            style: TextStyle(
                              color: Colors.black,
                              fontSize: 15.0,
@@ -92,7 +92,7 @@ class MyApp extends StatelessWidget {
                         size: 30.0,
                         color: Colors.blue,
                       ),
-                      trailing: Text('k_b_nagrale@gmail.com',
+                      trailing: Text('nagrale@gmail.com',
                         style: TextStyle(
                           color: Colors.black,
                           fontSize: 16.0,
